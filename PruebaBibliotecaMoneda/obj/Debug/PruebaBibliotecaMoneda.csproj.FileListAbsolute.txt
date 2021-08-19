@@ -1,0 +1,9 @@
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\EjercicioPractica\bibliotecaClaseAsig1\PruebaBibliotecaMoneda\bin\Debug\PruebaBibliotecaMoneda.exe.config
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\EjercicioPractica\bibliotecaClaseAsig1\PruebaBibliotecaMoneda\bin\Debug\PruebaBibliotecaMoneda.exe
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\EjercicioPractica\bibliotecaClaseAsig1\PruebaBibliotecaMoneda\bin\Debug\PruebaBibliotecaMoneda.pdb
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\EjercicioPractica\bibliotecaClaseAsig1\PruebaBibliotecaMoneda\bin\Debug\bibliotecaClaseAsig1.dll
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\EjercicioPractica\bibliotecaClaseAsig1\PruebaBibliotecaMoneda\bin\Debug\bibliotecaClaseAsig1.pdb
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\EjercicioPractica\bibliotecaClaseAsig1\PruebaBibliotecaMoneda\obj\Debug\PruebaBibliotecaMoneda.csproj.CoreCompileInputs.cache
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\EjercicioPractica\bibliotecaClaseAsig1\PruebaBibliotecaMoneda\obj\Debug\PruebaBibliotecaMoneda.csproj.CopyComplete
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\EjercicioPractica\bibliotecaClaseAsig1\PruebaBibliotecaMoneda\obj\Debug\PruebaBibliotecaMoneda.exe
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\EjercicioPractica\bibliotecaClaseAsig1\PruebaBibliotecaMoneda\obj\Debug\PruebaBibliotecaMoneda.pdb

@@ -1,0 +1,6 @@
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\bibliotecaClaseAsig1\bibliotecaClaseAsig1\obj\Debug\bibliotecaClaseAsig1.csproj.AssemblyReference.cache
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\bibliotecaClaseAsig1\bibliotecaClaseAsig1\obj\Debug\bibliotecaClaseAsig1.csproj.CoreCompileInputs.cache
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\bibliotecaClaseAsig1\bibliotecaClaseAsig1\bin\Debug\bibliotecaClaseAsig1.dll
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\bibliotecaClaseAsig1\bibliotecaClaseAsig1\bin\Debug\bibliotecaClaseAsig1.pdb
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\bibliotecaClaseAsig1\bibliotecaClaseAsig1\obj\Debug\bibliotecaClaseAsig1.dll
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\bibliotecaClaseAsig1\bibliotecaClaseAsig1\obj\Debug\bibliotecaClaseAsig1.pdb
